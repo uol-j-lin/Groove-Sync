@@ -4,3 +4,6 @@
 * The animated waveform was remodeled to allow for drag-and-drop loading of tracks and scrubbing of audio position, with track metadata display. 
 * Hot cue markers, which allow for triggering of vocal loops and melodic notes, and user-curated queues for song scheduling were also integrated. 
 * The library playlist was enhanced to support filtering, searching, column-based sorting, importing and exporting using XML files, and to persist between application loads.
+
+# Full Documentation of DJ Application Functionality
+https://docs.google.com/document/d/1DYjoH44g0u81sZ7KCgEjwcBirApI3x1uoaBUJxvQsGc/
