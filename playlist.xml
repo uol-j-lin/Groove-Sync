@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TrackMetaData>
+  <Track customId="0" title="Jackpot" length="3:17" format=".mp3" absolutePath="C:\Users\Admin\Downloads\Jackpot.mp3"/>
+  <Track customId="1" title="No No No" length="3:03" format=".mp3" absolutePath="C:\Users\Admin\Downloads\No No No.mp3"/>
+  <Track customId="2" title="Mayday" length="4:09" format=".mp3" absolutePath="C:\Users\Admin\Downloads\Mayday.mp3"/>
+  <Track customId="3" title="Rise Up" length="2:50" format=".mp3" absolutePath="C:\Users\Admin\Downloads\Rise Up.mp3"/>
+  <Track customId="4" title="Monody" length="4:52" format=".mp3" absolutePath="C:\Users\Admin\Downloads\Monody.mp3"/>
+  <Track customId="5" title="Xenogenesis" length="3:55" format=".mp3"
+         absolutePath="C:\Users\Admin\Downloads\Xenogenesis.mp3"/>
+  <Track customId="6" title="Fly Away" length="3:15" format=".mp3" absolutePath="C:\Users\Admin\Downloads\Fly Away.mp3"/>
+  <Track customId="7" title="Unity" length="4:10" format=".mp3" absolutePath="C:\Users\Admin\Downloads\Unity.mp3"/>
+  <Track customId="8" title="Let Love Win" length="3:20" format=".mp3"
+         absolutePath="C:\Users\Admin\Downloads\Let Love Win.mp3"/>
+</TrackMetaData>
