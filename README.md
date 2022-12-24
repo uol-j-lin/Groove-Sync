@@ -6,4 +6,4 @@
 * The library playlist was enhanced to support filtering, searching, column-based sorting, importing and exporting using XML files, and to persist between application loads.
 
 # Full Documentation of DJ Application Functionality
-https://docs.google.com/document/d/1DYjoH44g0u81sZ7KCgEjwcBirApI3x1uoaBUJxvQsGc/
+[https://docs.google.com/document/d/1DYjoH44g0u81sZ7KCgEjwcBirApI3x1uoaBUJxvQsGc/](Link to Documentation)
