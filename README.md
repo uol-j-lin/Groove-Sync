@@ -5,6 +5,9 @@
 * Hot cue markers, which allow for triggering of vocal loops and melodic notes, and user-curated queues for song scheduling were also integrated. 
 * The library playlist was enhanced to support filtering, searching, column-based sorting, importing and exporting using XML files, and to persist between application loads.
 
+# Demo Video
+[![dj-video-preview](https://user-images.githubusercontent.com/114364831/209759171-d2644ab3-d664-4585-b0c5-01cfb5add7e9.jpg)](https://www.youtube.com/watch?v=D6gZoxRa6YE&ab_channel=Jonathan)
+
 # DJ Components
 <img width="967" alt="image" src="https://user-images.githubusercontent.com/114364831/209502779-d306f1c7-37e7-4b49-b354-024a1a25e078.png">
 
