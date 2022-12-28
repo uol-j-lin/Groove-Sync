@@ -2,7 +2,7 @@
 * A cross-platform dual-deck DJ controller was developed using multithreading and component-driven development, providing users with precise control over multiple audio signals
 * Digital Signal Processing effects, such as low-pass, band-pass and high-pass frequency attenuation and equal-power crossfading, were integrated into the controller 
 * The animated waveform was remodeled to allow for drag-and-drop track loading and scrubbing of audio position, with metadata display
-* Hot cue markers allow triggering of vocal loops and melodic notes, and an integrated user-curated queues enables track scheduling
+* Hot cue markers allow triggering of vocal loops and melodic notes, and integrated user-curated queues enables track scheduling
 * The library playlist was enhanced to support filtering, searching, column-based sorting, importing and exporting using XML files, individual adding and deleting of tracks, and to persist between application loads
 
 ### Demo Video: [https://www.youtube.com/watch?v=D6gZoxRa6YE&ab_channel=Jonathan](https://www.youtube.com/watch?v=D6gZoxRa6YE&ab_channel=Jonathan)
